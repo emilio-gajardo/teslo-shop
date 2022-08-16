@@ -16,3 +16,7 @@
 
 6. Levantar en modo desarrollo: ```nest start --watch```
 
+# Stack usado:
+* Nest JS
+* PostgreSQL v14.3
+* Docker
