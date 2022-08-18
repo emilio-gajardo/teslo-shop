@@ -16,6 +16,8 @@
 
 6. Levantar en modo desarrollo: ```nest start --watch```
 
+7. Ejecutar endpoint para poblar BD ```http://localhost:3000/api/seed```
+
 # Stack usado:
 * Nest JS
 * PostgreSQL v14.3
