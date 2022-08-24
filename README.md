@@ -4,7 +4,7 @@
 
 # Teslo API
 
-1. Clonar proyecto
+1. Clonar proyecto.
 
 2. Descargar dependencias: ```npm install```
 
